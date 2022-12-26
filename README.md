@@ -10,3 +10,17 @@
 ![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![postgre](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
+# Projeto Conceitual
+
+<img src="exemplo-image.png" alt="exemplo imagem">
+
+> Planejamento e especificação do problema do contexto (Minimundo)
+
+### Ajustes e melhorias
+
+O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
+
+- [x] Projeto Conceitual
+- [ ] Projeto Lógico
+- [ ] Projeto Físico
+- [ ] Finalizado
