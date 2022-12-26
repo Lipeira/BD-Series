@@ -12,7 +12,7 @@
 
 # Projeto Conceitual
 
-<img src="exemplo-image.png" alt="exemplo imagem">
+<img src="Projeto Conceitual.jpeg" alt="projconc">
 
 > Planejamento e especificação do problema do contexto (Minimundo)
 
