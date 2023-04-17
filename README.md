@@ -1,8 +1,17 @@
-## *Gerenciamento de Banco de Dados sobre Séries*
+## Sumário
 
-* Projeto da cadeira Banco de Dados - SI
+1. Equipe de Desenvolvimento
+2. Projeto Conceitual
+3. Projeto Lógico
+4. Projeto Físico
+5. Apresentação Canvas
 
-* Grupo: Diego Calixto, Luis Felipe Mota, Caio Buarque, José Gabriel, Júlia Arnaud
+
+# *Gerenciamento de Banco de Dados sobre Séries*
+
+### Projeto da cadeira Banco de Dados - SI
+
+### Grupo: Diego Calixto, Luis Felipe Mota, Caio Buarque, José Gabriel, Júlia Arnaud
 
 ## Tecnologias:
 
@@ -244,11 +253,15 @@ ALTER TABLE SERIE ADD SHOW_ORIGINAL VARCHAR(100);
 
 <br>
 
-## Link apresentação Canvas:
+# Link apresentação Canvas:
 
-[Clique Aqui](https://www.canva.com/design/DAFgRmlsCdY/eF70S0AW2fwMKMU3hFq2iA/edit)
+### [Clique Aqui](https://www.canva.com/design/DAFgRmlsCdY/eF70S0AW2fwMKMU3hFq2iA/edit)
 
-### Ajustes e melhorias
+<br>
+<br>
+
+
+# Ajustes e melhorias
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
 
 - [x] Projeto Conceitual
