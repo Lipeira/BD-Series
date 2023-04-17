@@ -243,7 +243,7 @@ ALTER TABLE SERIE ADD SHOW_ORIGINAL VARCHAR(100);
 
 ```
 
-## Instãncias de inserts utilizadas:
+## Instâncias de inserts utilizadas:
 
 ### [Breaking Bed](https://docs.google.com/document/d/1r7JMjSubfgUe8GROGmT5VTH4VPlM6zJME9nnvcOTBCg/edit)
 ### [Better Caul Saul](https://docs.google.com/document/d/1ScHPW-wrzoXU4Ueh3epNVvyjW-vvLAw7qY4j841veTs/edit)
