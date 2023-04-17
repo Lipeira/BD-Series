@@ -250,6 +250,7 @@ ALTER TABLE SERIE ADD SHOW_ORIGINAL VARCHAR(100);
 ### [Stranger Things](https://docs.google.com/document/d/14X0fg0-A6II7xZPlA6m7qDuipltl3o79CdD9plFruS0/edit)
 ### [The Haunting of Hill House](https://docs.google.com/document/d/14ZV1rnVIOrA7GhgHf-SXwsmnk3IQjPNVrzYmYqiExC0/edit)
 ### [Fleabag](https://docs.google.com/document/d/14ZV1rnVIOrA7GhgHf-SXwsmnk3IQjPNVrzYmYqiExC0/edit)
+### [The Crown](https://docs.google.com/document/d/1tR6fGE7WSrQsOdBHcbUD1qELcCXpcDry3-vSvJga6Qg/edit)
 
 <br>
 
