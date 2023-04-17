@@ -1,3 +1,9 @@
+# *Gerenciamento de Banco de Dados sobre Séries*
+
+### Projeto da cadeira Banco de Dados - SI
+
+### Grupo: Diego Calixto, Luis Felipe Mota, Caio Buarque, José Gabriel, Júlia Arnaud
+
 ## Sumário
 
 1. Equipe de Desenvolvimento
@@ -5,13 +11,6 @@
 3. Projeto Lógico
 4. Projeto Físico
 5. Apresentação Canvas
-
-
-# *Gerenciamento de Banco de Dados sobre Séries*
-
-### Projeto da cadeira Banco de Dados - SI
-
-### Grupo: Diego Calixto, Luis Felipe Mota, Caio Buarque, José Gabriel, Júlia Arnaud
 
 ## Tecnologias:
 
