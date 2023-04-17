@@ -258,7 +258,6 @@ ALTER TABLE SERIE ADD SHOW_ORIGINAL VARCHAR(100);
 ### [Clique Aqui](https://www.canva.com/design/DAFgRmlsCdY/eF70S0AW2fwMKMU3hFq2iA/edit)
 
 <br>
-<br>
 
 
 # Ajustes e melhorias
