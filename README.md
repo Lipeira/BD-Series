@@ -1,6 +1,6 @@
 # *Gerenciamento de Banco de Dados sobre Séries*
 
-![](https://a.wattpad.com/useravatar/Wandinhatrevosa.256.699529.jpg) ![](https://merchbar.imgix.net/product/337/9912/smv-lp475416/KzQNxgFsSMV_LP475416.jpg?quality=60&auto=compress,format&w=256) ![](https://www.zapgrupos.com/grupos/thumb/imgZapGrupos_1002180416230.jpg) ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfNeyvVxuliBvHZZMeDemoqU9ZajvLnPtUxQ-9lAipwfY_7ClrlCfgDG2522nW2SSKWBM&usqp=CAU)
+![](https://a.wattpad.com/useravatar/Wandinhatrevosa.256.699529.jpg) ![](https://merchbar.imgix.net/product/337/9912/smv-lp475416/KzQNxgFsSMV_LP475416.jpg?quality=60&auto=compress,format&w=256) ![](https://www.zapgrupos.com/grupos/thumb/imgZapGrupos_1002180416230.jpg)
 
 ## Projeto da cadeira Banco de Dados - SI
 
