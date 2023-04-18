@@ -1,8 +1,16 @@
 # *Gerenciamento de Banco de Dados sobre Séries*
 
-### Projeto da cadeira Banco de Dados - SI
+![](https://a.wattpad.com/useravatar/Wandinhatrevosa.256.699529.jpg) ![](https://merchbar.imgix.net/product/337/9912/smv-lp475416/KzQNxgFsSMV_LP475416.jpg?quality=60&auto=compress,format&w=256) ![](https://www.zapgrupos.com/grupos/thumb/imgZapGrupos_1002180416230.jpg) ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfNeyvVxuliBvHZZMeDemoqU9ZajvLnPtUxQ-9lAipwfY_7ClrlCfgDG2522nW2SSKWBM&usqp=CAU)
 
-### Grupo: Diego Calixto, Luis Felipe Mota, Caio Buarque, José Gabriel, Júlia Arnaud
+## Projeto da cadeira Banco de Dados - SI
+
+## Grupo: 
+
+* Diego Calixto
+* Luis Felipe Mota
+* Caio Buarque
+* José Gabriel
+* Júlia Arnaud
 
 ## Sumário
 
@@ -242,14 +250,25 @@ ALTER TABLE SERIE ADD SHOW_ORIGINAL VARCHAR(100);
 
 ```
 
-## Instâncias de inserts utilizadas:
+# Instâncias de inserts utilizadas:
 
 ### [Breaking Bed](https://docs.google.com/document/d/1r7JMjSubfgUe8GROGmT5VTH4VPlM6zJME9nnvcOTBCg/edit)
+![](https://pt.apkshki.com/storage/7705/icon_600589340d977_7705_w256.png)
+-----
 ### [Better Caul Saul](https://docs.google.com/document/d/1ScHPW-wrzoXU4Ueh3epNVvyjW-vvLAw7qY4j841veTs/edit)
+![](https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/41-ZZPUZCGL._CR0,54,392,392_UX256.jpg)
+-----
 ### [Stranger Things](https://docs.google.com/document/d/14X0fg0-A6II7xZPlA6m7qDuipltl3o79CdD9plFruS0/edit)
+![](https://cdn.shopify.com/s/files/1/0004/9414/1503/collections/SS4.jpg?v=1655275584)
+-----
 ### [The Haunting of Hill House](https://docs.google.com/document/d/14ZV1rnVIOrA7GhgHf-SXwsmnk3IQjPNVrzYmYqiExC0/edit)
+![](https://styles.redditmedia.com/t5_3jyh0/styles/communityIcon_e0bgwko1ahd21.png)
+-----
 ### [Fleabag](https://docs.google.com/document/d/14ZV1rnVIOrA7GhgHf-SXwsmnk3IQjPNVrzYmYqiExC0/edit)
+![](https://b.thumbs.redditmedia.com/fvC3AESiFXGXVlMOIBqvhI-DG56L5S4WitpzUwd4B6k.png)
+-----
 ### [The Crown](https://docs.google.com/document/d/1tR6fGE7WSrQsOdBHcbUD1qELcCXpcDry3-vSvJga6Qg/edit)
+![](https://img.thedailybeast.com/image/upload/dpr_2.0/c_crop,h_1686,w_1686,x_518,y_0/c_limit,w_128/d_placeholder_euli9k,fl_lossy,q_auto/v1572850392/The-Crown-S3-portaits-cover-2_imshz1)
 
 <br>
 
