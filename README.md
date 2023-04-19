@@ -285,4 +285,4 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 - [x] Projeto Conceitual
 - [x] Projeto Lógico
 - [x] Projeto Físico
-- [ ] Finalizado
+- [x] Finalizado
